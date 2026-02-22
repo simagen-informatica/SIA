@@ -1,5 +1,4 @@
 {
   "version": "1.0.0",
   "modelo": "gemini-2.5-flash-lite",
-  "mensaje_alerta": "Aviso de SIMAGEN por inactividad: Parece que te has dejado abiertos por demasiado tiempo sin estar delante del equipo.\n\nPor seguridad, guarda todo y cierra los programas y archivos cuando no vayas a estar frente al ordenador. ¡Evitemos juntos un posible problema!"
 }
